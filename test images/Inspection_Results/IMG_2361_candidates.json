@@ -1,0 +1,83 @@
+[
+  {
+    "area_polar_px": 682,
+    "angular_width_deg": 7.73,
+    "radial_width_px": 24,
+    "offset_px": -28.4,
+    "mean_brightness_gain": 3.93,
+    "peak_brightness_gain": 11.69,
+    "peak_to_mean_ratio": 2.97,
+    "solidity": 0.646,
+    "elongation": 3.63,
+    "edge_gradient": 20.14,
+    "centroid_angle_deg": 155.47800013746334,
+    "centroid_radius_px": 9.574780058651026,
+    "reject_reasons": [
+      "off_joint_radius"
+    ]
+  },
+  {
+    "area_polar_px": 181,
+    "angular_width_deg": 3.16,
+    "radial_width_px": 13,
+    "offset_px": -26.9,
+    "mean_brightness_gain": 2.18,
+    "peak_brightness_gain": 4.37,
+    "peak_to_mean_ratio": 2.01,
+    "solidity": 0.774,
+    "elongation": 2.75,
+    "edge_gradient": 18.85,
+    "centroid_angle_deg": 142.9995036256906,
+    "centroid_radius_px": 11.104972375690608,
+    "reject_reasons": [
+      "off_joint_radius"
+    ]
+  },
+  {
+    "area_polar_px": 1064,
+    "angular_width_deg": 13.89,
+    "radial_width_px": 25,
+    "offset_px": -3.0,
+    "mean_brightness_gain": 6.3,
+    "peak_brightness_gain": 31.26,
+    "peak_to_mean_ratio": 4.96,
+    "solidity": 0.539,
+    "elongation": 6.51,
+    "edge_gradient": 96.33,
+    "centroid_angle_deg": 89.22170538651316,
+    "centroid_radius_px": 35.02067669172932,
+    "reject_reasons": []
+  },
+  {
+    "area_polar_px": 337,
+    "angular_width_deg": 6.33,
+    "radial_width_px": 21,
+    "offset_px": 24.9,
+    "mean_brightness_gain": 2.24,
+    "peak_brightness_gain": 5.4,
+    "peak_to_mean_ratio": 2.41,
+    "solidity": 0.446,
+    "elongation": 3.68,
+    "edge_gradient": 23.36,
+    "centroid_angle_deg": 153.1805800259644,
+    "centroid_radius_px": 62.90207715133531,
+    "reject_reasons": []
+  },
+  {
+    "area_polar_px": 225,
+    "angular_width_deg": 4.22,
+    "radial_width_px": 11,
+    "offset_px": 49.6,
+    "mean_brightness_gain": 2.49,
+    "peak_brightness_gain": 4.5,
+    "peak_to_mean_ratio": 1.81,
+    "solidity": 0.852,
+    "elongation": 4.84,
+    "edge_gradient": 17.7,
+    "centroid_angle_deg": 161.07890625,
+    "centroid_radius_px": 87.60444444444444,
+    "reject_reasons": [
+      "off_joint_radius"
+    ]
+  }
+]

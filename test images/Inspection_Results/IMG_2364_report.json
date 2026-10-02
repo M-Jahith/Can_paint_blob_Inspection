@@ -1,0 +1,50 @@
+{
+  "image": "E:/W4Labs/CanInspection/test images/IMG_2364.jpg",
+  "decision": "REJECTED - EXCESS PAINT",
+  "circle": {
+    "center_x": 968,
+    "center_y": 954,
+    "radius_px": 657
+  },
+  "defect_area_px": 522,
+  "polar_candidates": 1,
+  "image_components": [
+    {
+      "area_px": 522,
+      "bbox": [
+        846,
+        284,
+        50,
+        16
+      ]
+    }
+  ],
+  "polar_candidate_details": [
+    {
+      "area_polar_px": 222,
+      "angular_width_deg": 4.22,
+      "radial_width_px": 13,
+      "offset_px": 13.0,
+      "mean_brightness_gain": 2.16,
+      "peak_brightness_gain": 3.84,
+      "peak_to_mean_ratio": 1.78,
+      "solidity": 0.712,
+      "elongation": 3.79,
+      "edge_gradient": 22.21,
+      "centroid_angle_deg": 261.62109375,
+      "centroid_radius_px": 51.0045045045045,
+      "reject_reasons": []
+    }
+  ],
+  "settings": {
+    "ring_inner_offset": -38,
+    "ring_outer_offset": 55,
+    "bead_offset_band_px": [
+      -10,
+      34
+    ],
+    "max_radial_width": 30,
+    "min_polar_area": 180,
+    "use_background_calibration": false
+  }
+}

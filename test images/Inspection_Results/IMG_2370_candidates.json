@@ -1,0 +1,66 @@
+[
+  {
+    "area_polar_px": 921,
+    "angular_width_deg": 7.56,
+    "radial_width_px": 27,
+    "offset_px": -25.6,
+    "mean_brightness_gain": 3.23,
+    "peak_brightness_gain": 8.32,
+    "peak_to_mean_ratio": 2.58,
+    "solidity": 0.793,
+    "elongation": 2.54,
+    "edge_gradient": 20.52,
+    "centroid_angle_deg": 229.7136476995114,
+    "centroid_radius_px": 12.418023887079261,
+    "reject_reasons": [
+      "off_joint_radius"
+    ]
+  },
+  {
+    "area_polar_px": 909,
+    "angular_width_deg": 8.61,
+    "radial_width_px": 29,
+    "offset_px": 4.2,
+    "mean_brightness_gain": 3.79,
+    "peak_brightness_gain": 35.98,
+    "peak_to_mean_ratio": 9.49,
+    "solidity": 0.64,
+    "elongation": 2.85,
+    "edge_gradient": 77.06,
+    "centroid_angle_deg": 229.01976330445544,
+    "centroid_radius_px": 42.248624862486245,
+    "reject_reasons": []
+  },
+  {
+    "area_polar_px": 189,
+    "angular_width_deg": 3.87,
+    "radial_width_px": 15,
+    "offset_px": -1.8,
+    "mean_brightness_gain": 2.69,
+    "peak_brightness_gain": 6.41,
+    "peak_to_mean_ratio": 2.38,
+    "solidity": 0.573,
+    "elongation": 2.45,
+    "edge_gradient": 95.81,
+    "centroid_angle_deg": 216.31324404761904,
+    "centroid_radius_px": 36.16931216931217,
+    "reject_reasons": []
+  },
+  {
+    "area_polar_px": 478,
+    "angular_width_deg": 4.75,
+    "radial_width_px": 23,
+    "offset_px": 42.2,
+    "mean_brightness_gain": 2.56,
+    "peak_brightness_gain": 5.03,
+    "peak_to_mean_ratio": 1.97,
+    "solidity": 0.77,
+    "elongation": 2.12,
+    "edge_gradient": 10.1,
+    "centroid_angle_deg": 230.9655302039749,
+    "centroid_radius_px": 80.2092050209205,
+    "reject_reasons": [
+      "off_joint_radius"
+    ]
+  }
+]

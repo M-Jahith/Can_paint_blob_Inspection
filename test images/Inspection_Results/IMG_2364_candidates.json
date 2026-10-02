@@ -1,0 +1,102 @@
+[
+  {
+    "area_polar_px": 183,
+    "angular_width_deg": 4.92,
+    "radial_width_px": 10,
+    "offset_px": -34.7,
+    "mean_brightness_gain": 4.88,
+    "peak_brightness_gain": 17.98,
+    "peak_to_mean_ratio": 3.68,
+    "solidity": 0.654,
+    "elongation": 5.35,
+    "edge_gradient": 18.47,
+    "centroid_angle_deg": 111.35405993852459,
+    "centroid_radius_px": 3.300546448087432,
+    "reject_reasons": [
+      "off_joint_radius"
+    ]
+  },
+  {
+    "area_polar_px": 489,
+    "angular_width_deg": 6.86,
+    "radial_width_px": 17,
+    "offset_px": -31.6,
+    "mean_brightness_gain": 11.27,
+    "peak_brightness_gain": 30.0,
+    "peak_to_mean_ratio": 2.66,
+    "solidity": 0.738,
+    "elongation": 4.4,
+    "edge_gradient": 31.59,
+    "centroid_angle_deg": 126.54812116564416,
+    "centroid_radius_px": 6.357873210633946,
+    "reject_reasons": [
+      "off_joint_radius"
+    ]
+  },
+  {
+    "area_polar_px": 369,
+    "angular_width_deg": 4.92,
+    "radial_width_px": 17,
+    "offset_px": -26.9,
+    "mean_brightness_gain": 2.09,
+    "peak_brightness_gain": 4.05,
+    "peak_to_mean_ratio": 1.94,
+    "solidity": 0.775,
+    "elongation": 3.18,
+    "edge_gradient": 12.15,
+    "centroid_angle_deg": 311.1518673780488,
+    "centroid_radius_px": 11.121951219512194,
+    "reject_reasons": [
+      "off_joint_radius"
+    ]
+  },
+  {
+    "area_polar_px": 2123,
+    "angular_width_deg": 9.84,
+    "radial_width_px": 71,
+    "offset_px": 19.8,
+    "mean_brightness_gain": 2.87,
+    "peak_brightness_gain": 8.6,
+    "peak_to_mean_ratio": 3.0,
+    "solidity": 0.534,
+    "elongation": 1.64,
+    "edge_gradient": 47.18,
+    "centroid_angle_deg": 309.126521652732,
+    "centroid_radius_px": 57.799811587376354,
+    "reject_reasons": [
+      "radial_width_too_large"
+    ]
+  },
+  {
+    "area_polar_px": 1181,
+    "angular_width_deg": 6.33,
+    "radial_width_px": 60,
+    "offset_px": 20.1,
+    "mean_brightness_gain": 3.69,
+    "peak_brightness_gain": 12.63,
+    "peak_to_mean_ratio": 3.42,
+    "solidity": 0.547,
+    "elongation": 1.25,
+    "edge_gradient": 50.99,
+    "centroid_angle_deg": 298.58462108382724,
+    "centroid_radius_px": 58.14225232853514,
+    "reject_reasons": [
+      "radial_width_too_large"
+    ]
+  },
+  {
+    "area_polar_px": 222,
+    "angular_width_deg": 4.22,
+    "radial_width_px": 13,
+    "offset_px": 13.0,
+    "mean_brightness_gain": 2.16,
+    "peak_brightness_gain": 3.84,
+    "peak_to_mean_ratio": 1.78,
+    "solidity": 0.712,
+    "elongation": 3.79,
+    "edge_gradient": 22.21,
+    "centroid_angle_deg": 261.62109375,
+    "centroid_radius_px": 51.0045045045045,
+    "reject_reasons": []
+  }
+]

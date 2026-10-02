@@ -1,0 +1,74 @@
+{
+  "image": "E:/W4Labs/CanInspection/test images/IMG_2369.jpg",
+  "decision": "REJECTED - EXCESS PAINT",
+  "circle": {
+    "center_x": 848,
+    "center_y": 775,
+    "radius_px": 624
+  },
+  "defect_area_px": 844,
+  "polar_candidates": 2,
+  "image_components": [
+    {
+      "area_px": 423,
+      "bbox": [
+        771,
+        146,
+        50,
+        17
+      ]
+    },
+    {
+      "area_px": 421,
+      "bbox": [
+        341,
+        376,
+        31,
+        42
+      ]
+    }
+  ],
+  "polar_candidate_details": [
+    {
+      "area_polar_px": 180,
+      "angular_width_deg": 4.57,
+      "radial_width_px": 13,
+      "offset_px": -1.8,
+      "mean_brightness_gain": 5.47,
+      "peak_brightness_gain": 13.67,
+      "peak_to_mean_ratio": 2.5,
+      "solidity": 0.533,
+      "elongation": 3.82,
+      "edge_gradient": 86.21,
+      "centroid_angle_deg": 217.48828125,
+      "centroid_radius_px": 36.21666666666667,
+      "reject_reasons": []
+    },
+    {
+      "area_polar_px": 185,
+      "angular_width_deg": 4.57,
+      "radial_width_px": 13,
+      "offset_px": -1.2,
+      "mean_brightness_gain": 3.87,
+      "peak_brightness_gain": 17.79,
+      "peak_to_mean_ratio": 4.59,
+      "solidity": 0.547,
+      "elongation": 3.82,
+      "edge_gradient": 94.29,
+      "centroid_angle_deg": 265.0249155405406,
+      "centroid_radius_px": 36.832432432432434,
+      "reject_reasons": []
+    }
+  ],
+  "settings": {
+    "ring_inner_offset": -38,
+    "ring_outer_offset": 55,
+    "bead_offset_band_px": [
+      -10,
+      34
+    ],
+    "max_radial_width": 30,
+    "min_polar_area": 180,
+    "use_background_calibration": false
+  }
+}
